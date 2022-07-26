@@ -1,0 +1,1 @@
+# et718-repo-rails-blog-2
